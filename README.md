@@ -10,6 +10,7 @@
 |-------------------|-----------------------------------------------------
 |master             |[![master branch build status](https://api.travis-ci.org/warden-stack/Warden.Integrations.MsSql.svg?branch=master)](https://travis-ci.org/warden-stack/Warden.Integrations.MsSql)
 |develop            |[![develop branch build status](https://api.travis-ci.org/warden-stack/Warden.Integrations.MsSql.svg?branch=develop)](https://travis-ci.org/warden-stack/Warden.Integrations.MsSql/branches)
+
 **MsSqlIntegration** can be used for querying or saving the data using the MSSQL database. 
 
 ### Installation:
